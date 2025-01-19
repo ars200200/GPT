@@ -1,0 +1,10 @@
+{
+    "heads": 16,
+    "embedding_size": 512,
+    "attention_dropout": 0.1,
+    "dropout": 0.1,
+    
+    "dict_size": 50259,
+    "hidden_layer_size": 2560,
+    "N_blocks":12
+}
